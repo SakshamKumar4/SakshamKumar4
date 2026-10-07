@@ -1,28 +1,21 @@
 <h1 align="center">Hi, I'm Saksham Kumar 👋</h1>
 
-<p align="center">
-  <b>Building ML systems that see, hear, and make sense of the real world.</b><br/>
-  <sub>B.Tech CSE (Data Science) @ Bennett University · Hackathon Runner-Up · Placement Coordinator</sub>
-</p>
+<p align="center"><b>Building ML systems that see, hear, and make sense of the real world.</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sakshamkumar4494@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sakshamkumar4494@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 B.Tech in Computer Science (Focus: Data Science) at **Bennett University**, Greater Noida — CGPA **7.5 / 10** (as of 2nd year)
-- 🧠 I build end-to-end AI/ML projects, from computer vision and deepfake detection to real-time gesture recognition and NLP
-- 🥈 **Runner-Up** — Hackaccino 4.0 Hackathon (Team XLR8), where I led system architecture and ML pipeline integration
-- 🏅 **Top 10 / 250+ teams** — Microsoft Innovate Hackathon (Team Code Pirates)
-- 🎯 Currently serving as **Placement Coordinator**, Placement Committee, Bennett University
-- 💡 350+ problems solved on LeetCode and GeeksforGeeks
-- 📫 Reach me at **sakshamkumar4494@gmail.com**
+- 🎓 B.Tech in Computer Science (Focus: Data Science) at **Bennett University** — CGPA **7.5 / 10** (as of 2nd year)
+- 🧠 I build end-to-end ML systems, from computer vision and deepfake detection to real-time gesture recognition and NLP
+- 🎯 Currently **Placement Coordinator**, Placement Committee, Bennett University
+- 📫 Best way to reach me: the email button above
 
 ---
 
@@ -112,12 +105,20 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥈 **Runner-Up**, Hackaccino 4.0, Open Innovation Track (Team XLR8, 24-hour hackathon)
-- 🏅 **Top 10 / 250+ teams**, Microsoft Innovate Hackathon (Team Code Pirates), AI chatbot with SharePoint integration
-- 📜 Microsoft Certified: **Fabric Data Engineer Associate** 
+**Hackathons**
+- 🇮🇳 **Smart India Hackathon 2026** — Ranked 2nd, qualified for the Nationals
+- 🇮🇳 **Smart India Hackathon 2025** — National Qualifier
+- 🥈 **Hackaccino 4.0** — Runner-Up, Open Innovation Track (Team XLR8, 24-hour build)
+- 🏅 **Microsoft Innovate Hackathon** — Top 10 / 250+ teams (Team Code Pirates), AI chatbot with SharePoint integration
+
+**Certifications**
+- 📜 Microsoft — **MLOps Engineer**
+- 📜 Microsoft Certified: **Fabric Data Engineer Associate**
 - 📜 McKinsey.org **Forward Program**
-- 📜 HTML & CSS Workshop, Xebia Academy
-- 💻 350+ coding problems solved on LeetCode and GeeksforGeeks
+- 📜 HTML & CSS Workshop — Xebia Academy
+
+**Problem solving**
+- 💻 350+ problems solved on LeetCode and GeeksforGeeks
 
 ---
 
@@ -133,6 +134,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views"/>
+</p>
 
 <p align="center">
   <i>Let's connect and build something interesting together! 🚀</i>
