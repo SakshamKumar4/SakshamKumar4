@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/saksham-k-25a4a128a/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="(https://www.linkedin.com/in/saksham-k-25a4a128a/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sakshamkumar4494@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
