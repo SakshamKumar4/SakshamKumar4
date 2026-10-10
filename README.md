@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/saksham-k-25a4a128a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sakshamkumar4494@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=Followers&color=1e3a8a" alt="Followers"/></a>
+  <a href="https://github.com/SakshamKumar4?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=Followers&color=1e3a8a" alt="Followers"/></a>
 </p>
 
 ---
