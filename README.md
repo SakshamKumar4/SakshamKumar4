@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saksham Kumar 👋</h1>
 
 <p align="center">
-  <b>ML Engineer in the making</b> • <b>Computer Vision · NLP · Real-Time ML · Data Science</b><br/>
+  <b>DATA Engineer in the making</b> • <b>Computer Vision · NLP · Real-Time ML · Data Science</b><br/>
   B.Tech CSE (Data Science) @ Bennett University • Winner @ Microsoft Innovate'26 • 2x Runner-Up • 350+ problems solved
 </p>
 
